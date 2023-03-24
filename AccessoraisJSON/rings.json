@@ -1,0 +1,40 @@
+{
+  "rings": [
+    {
+      "id": "1r",
+      "src": "/assets/ring/r-1.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "900"
+    },
+    {
+      "id": "2r",
+      "src": "/assets/ring/r-2.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "800"
+    },
+    {
+      "id": "3r",
+      "src": "/assets/ring/r-3.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "700"
+    },
+    {
+      "id": "4r",
+      "src": "/assets/ring/r-4.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "600"
+    },
+    {
+      "id": "5r",
+      "src": "/assets/ring/r-5.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "500"
+    },
+    {
+      "id": "6r",
+      "src": "/assets/ring/r-6.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "500"
+    }
+  ]
+}

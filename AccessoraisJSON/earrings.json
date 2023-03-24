@@ -1,0 +1,40 @@
+{
+    "earrings": [
+        {
+          "id": "1e",
+          "src": "/assets/earring/e-1.png",
+          "title": "sit amet consectetur adipisicing elit.",
+          "price": "900"
+        },
+        {
+          "id": "2e",
+          "src": "/assets/earring/e-2.png",
+          "title": "Hello sit amet consectetur adipisicing elit.",
+          "price": "800"
+        },
+        {
+          "id": "3e",
+          "src": "/assets/earring/e-3.png",
+          "title": "sit amet consectetur adipisicing elit.",
+          "price": "700"
+        },
+        {
+          "id": "4e",
+          "src": "/assets/earring/e-4.png",
+          "title": "sit amet consectetur adipisicing elit.",
+          "price": "600"
+        },
+        {
+          "id": "5e",
+          "src": "/assets/earring/e-5.png",
+          "title": "sit amet consectetur adipisicing elit.",
+          "price": "500"
+        },
+        {
+          "id": "6e",
+          "src": "/assets/earring/e-6.png",
+          "title": "sit amet consectetur adipisicing elit.",
+          "price": "400"
+        }
+    ]    
+}

@@ -1,0 +1,40 @@
+{
+"necklaces": [
+    {
+      "id": "1n",
+      "src": "/assets/necklace/n-4.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "900"
+    },
+    {
+      "id": "2n",
+      "src": "/assets/necklace/n-2.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "800"
+    },
+    {
+      "id": "3n",
+      "src": "/assets/necklace/n-3.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "700"
+    },
+    {
+      "id": "4n",
+      "src": "/assets/necklace/n-4.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "600"
+    },
+    {
+      "id": "5n",
+      "src": "/assets/necklace/n-5.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "500"
+    },
+    {
+      "id": "6n",
+      "src": "/assets/necklace/n-6.png",
+      "title": "sit amet consectetur adipisicing elit.",
+      "price": "400"
+    }
+  ]
+}
